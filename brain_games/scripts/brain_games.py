@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 def greet(who):
     print(who)
 
